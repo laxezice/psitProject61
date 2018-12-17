@@ -1,6 +1,7 @@
 import csv
 import pygal
 
+#2017
 gender_data = []
 percents_data = []
 with open('../database/gender17.txt') as csvfile:
@@ -85,7 +86,7 @@ pie_chart.add(age_data[4], percents_data[4])
 pie_chart.add(age_data[5], percents_data[5])
 pie_chart.render_to_file('age2017.svg')
 
-
+#2018
 
 gender_data = []
 percents_data = []

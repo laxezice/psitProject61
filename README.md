@@ -21,7 +21,7 @@ by พี่จะดรอป team
 		<td><a href="https://github.com/miocute">miocute</a></td>
 	</tr>
 	<tr align="center">
-		<td><a href="" target="_blank"><img src=""></a></td>
+		<td><a href="https://github.com/wirawan05595" target="_blank"><img src="Pic member/ICEwomen.png"></a></td>
 		<td>ชื่อ : </td>
 		<td>รหัสนักศึกษา : </td>
 		<td>Rank : C</td>

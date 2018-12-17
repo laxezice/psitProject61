@@ -22,10 +22,10 @@ by พี่จะดรอป team
 	</tr>
 	<tr align="center">
 		<td><a href="https://github.com/wirawan05595" target="_blank"><img src="Pic member/ICEwomen.png"></a></td>
-		<td>ชื่อ : </td>
-		<td>รหัสนักศึกษา : </td>
+		<td>ชื่อ : วิลาวัณย์ ใจงามเลิศวงศ์</td>
+		<td>รหัสนักศึกษา : 61070209</td>
 		<td>Rank : C</td>
-		<td><a href=""></a></td>
+		<td><a href="https://github.com/wirawan">wirawan05595</a></td>
 	</tr>
 	<tr align="center">
 		<td><a href="" target="_blank"><img src=""></a></td>

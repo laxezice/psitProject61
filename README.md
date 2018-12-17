@@ -7,11 +7,11 @@ by พี่จะดรอป team
 # สมาชิคกลุ่ม
 <table>
 	<tr align="center">
-		<td><a href="" target="_blank"><img src="Pic member/ICEmen.png"></a></td>
-		<td>ชื่อ : </td>
-		<td>รหัสนักศึกษา : </td>
+		<td><a href="https://github.com/61070048" target="_blank"><img src="Pic member/ICEmen.png"></a></td>
+		<td>ชื่อ : ณัฏกิตติ์ จายไธสง</td>
+		<td>รหัสนักศึกษา : 61070048</td>
 		<td>Rank : A</td>
-		<td><a href=""></a></td>
+		<td><a href="https://github.com/61070048">61070048</a></td>
 	</tr>
 	<tr align="center">
 		<td><a href="https://github.com/miocute" target="_blank"><img src="Pic member/PONG.png"></a></td>

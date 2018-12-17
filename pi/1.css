@@ -1,0 +1,86 @@
+@font-face {
+    font-family: 'tst_back_power_extregular';
+    src: url('tst_back_power_ext_regular-webfont.eot');
+    src: url('tst_back_power_ext_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('tst_back_power_ext_regular-webfont.woff2') format('woff2'),
+         url('tst_back_power_ext_regular-webfont.woff') format('woff'),
+         url('tst_back_power_ext_regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.F1{
+	font-family: 'tst_back_power_extregular';
+}
+
+.mg-r-10 {
+	margin-right: 400px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+input.btn  {
+  width: 60px;
+  margin: 0 auto;
+  display: block;
+}
+
+.main-nav{
+	float: left;
+	list-style: none;
+	margin-top: 30px;
+}
+.main-nav li {
+	display: inline-block;
+}
+
+.main-nav li a{
+	color: #6633CC;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "", sans-serif;
+	font-size: 20px;
+}
+
+.main-nav li.active a{
+	border: 3px solid #6633CC;
+}
+
+.main-nav li a:hover{
+	border: 5px solid #339999;
+}
+
+.main-nav2{
+	float: right;
+	list-style: none;
+	margin-top: 100px;
+}
+.main-nav2 li {
+	display: inline-block;
+}
+
+.main-nav2 li a{
+	color: #339999;
+	text-decoration: none;
+	padding: 5px 20px;
+	font-family: "", sans-serif;
+	font-size: 50px;
+}
+
+.main-nav2 li.active a{
+	border: 1px solid #339999;
+}
+
+.main-nav2 li a:hover{
+	border: 1px solid #339999;
+}
+.mg-r-10 {
+	margin-right: 50px;
+}

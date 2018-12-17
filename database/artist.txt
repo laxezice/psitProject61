@@ -25,7 +25,7 @@ Nice For What,Drake,hip-hop and R&B
 Psycho,Post Malone ft.Ty Dolla $ign,hip-hop and R&B
 Nice For What,Drake,hip-hop and R&B
 Sad!,XXXTENTACION,hip-hop and R&B
-I Like It,Cardi B, Bad Bunny,J Balvin,hip-hop and R&B
+I Like It,Cardi B@Bad Bunny@J Balvin,hip-hop and R&B
 Nice For What,Drake,hip-hop and R&B
 In My Feelings,Drake,hip-hop and R&B
 In My Feelings,Drake,hip-hop and R&B
@@ -37,13 +37,13 @@ In My Feelings,Drake,hip-hop and R&B
 In My Feelings,Drake,hip-hop and R&B
 In My Feelings,Drake,hip-hop and R&B
 In My Feelings,Drake,hip-hop and R&B
-Girls Like You,Maroon 5 ft.Cardi B,pop
-Girls Like You,Maroon 5 ft.Cardi B,pop
-Girls Like You,Maroon 5 ft.Cardi B,pop
-Girls Like You,Maroon 5 ft.Cardi B,pop
-Girls Like You,Maroon 5 ft.Cardi B,pop
-Girls Like You,Maroon 5 ft.Cardi B,pop
-Girls Like You,Maroon 5 ft.Cardi B,pop
+Girls Like You,Maroon 5 ft.Cardi B,rock
+Girls Like You,Maroon 5 ft.Cardi B,rock
+Girls Like You,Maroon 5 ft.Cardi B,rock
+Girls Like You,Maroon 5 ft.Cardi B,rock
+Girls Like You,Maroon 5 ft.Cardi B,rock
+Girls Like You,Maroon 5 ft.Cardi B,rock
+Girls Like You,Maroon 5 ft.Cardi B,rock
 Thank U@ Next,Ariana Grande,pop
 Thank U@ Next,Ariana Grande,pop
 Thank U@ Next,Ariana Grande,pop

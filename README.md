@@ -14,9 +14,9 @@ by พี่จะดรอป team
 		<td><a href=""></a></td>
 	</tr>
 	<tr align="center">
-		<td><a href="https://github.com/miocute" target="_blank"><img src=""></a></td>
-		<td>ชื่อ : </td>
-		<td>รหัสนักศึกษา : </td>
+		<td><a href="https://github.com/miocute" target="_blank"><img src="Pic member/PONG.png"></a></td>
+		<td>ชื่อ : ปรมัตถ์ สุริยะรังษี</td>
+		<td>รหัสนักศึกษา : 61070113</td>
 		<td>Rank : B</td>
 		<td><a href="https://github.com/miocute">miocute</a></td>
 	</tr>

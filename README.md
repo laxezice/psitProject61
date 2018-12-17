@@ -28,7 +28,7 @@ by พี่จะดรอป team
 		<td><a href="https://github.com/wirawan05595">wirawan05595</a></td>
 	</tr>
 	<tr align="center">
-		<td><a href="https://github.com/saisintpgg" target="_blank"><img src="Pic member/SIN"></a></td>
+		<td><a href="https://github.com/saisintpgg" target="_blank"><img src="Pic member/SIN" width="400" height=""></a></td>
 		<td>ชื่อ : ธนวรรธน์ ไพศาลพัฒนากิจ</td>
 		<td>รหัสนักศึกษา : 61070073</td>
 		<td>Rank : D</td>

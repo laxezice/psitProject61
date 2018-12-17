@@ -25,7 +25,7 @@ by พี่จะดรอป team
 		<td>ชื่อ : วิลาวัณย์ ใจงามเลิศวงศ์</td>
 		<td>รหัสนักศึกษา : 61070209</td>
 		<td>Rank : C</td>
-		<td><a href="https://github.com/wirawan">wirawan05595</a></td>
+		<td><a href="https://github.com/wirawan05595">wirawan05595</a></td>
 	</tr>
 	<tr align="center">
 		<td><a href="" target="_blank"><img src=""></a></td>

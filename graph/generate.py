@@ -1,9 +1,9 @@
 import csv
 import pygal
-import numpy
 
 song_data = {}
 artist_data = {}
+style17_data = {}
 style18_data = {}
 
 with open('../database/artist.txt') as csvfile:
@@ -31,23 +31,66 @@ with open('../database/artist.txt') as csvfile:
         else:
             artist_data[artist] = 1
 
-        if style in style_data:
+        if style in style18_data:
             style18_data[style] += 1
         else:
             style18_data[style] = 1
 
-print(song_data)
-print(artist_data)
-print(style_data)
+# with open('../database/artist17.txt') as csvfile:
+#     readfile = csv.reader(csvfile, delimiter=',')
 
+#     for line in readfile:
+#         song = str(line[0])
+#         artist = str(line[1])
+#         style = str(line[2])
 
-# pie_chart = pygal.Pie()
-# pie_chart.title = 'By Day 2018'
-# pie_chart.add(day_data[0], percents_data[0])
-# pie_chart.add(day_data[1], percents_data[1])
-# pie_chart.add(day_data[2], percents_data[2])
-# pie_chart.add(day_data[3], percents_data[3])
-# pie_chart.add(day_data[4], percents_data[4])
-# pie_chart.add(day_data[5], percents_data[5])
-# pie_chart.add(day_data[6], percents_data[6])
-# pie_chart.render_to_file('day2018.svg')
+#         if "@" in song:
+#             song = song.replace("@", ",")
+#         if "@" in artist:
+#             song = song.replace("@", ",")
+#         if "@" in style:
+#             song = song.replace("@", ",")
+
+#         if song in song_data:
+#             song_data[song] += 1
+#         else:
+#             song_data[song] = 1
+
+#         if artist in artist_data:
+#             artist_data[artist] += 1
+#         else:
+#             artist_data[artist] = 1
+
+#         if style in style18_data:
+#             style18_data[style] += 1
+#         else:
+#             style18_data[style] = 1
+
+song_data = list(sorted(song_data.items(), key=lambda x: -x[1]))
+artist_data = list(sorted(artist_data.items(), key=lambda x: -x[1]))
+style18_data = list(sorted(style18_data.items(), key=lambda x: -x[1]))
+# style17_data = list(sorted(style17_data.items(), key=lambda x: -x[1]))
+
+line_chart = pygal.HorizontalBar()
+line_chart.title = '1st song billboard chart 2017-2018'
+for song in song_data:
+    line_chart.add(song[0], song[1])
+line_chart.render_to_file('song.svg')
+
+line_chart = pygal.HorizontalBar()
+line_chart.title = '1st artist billboard chart 2017-2018'
+for artist in artist_data:
+    line_chart.add(artist[0], artist[1])
+line_chart.render_to_file('artist.svg')
+
+line_chart = pygal.HorizontalBar()
+line_chart.title = '1st style billboard chart 2018'
+for style in style18_data:
+    line_chart.add(style[0], style[1])
+line_chart.render_to_file('style18.svg')
+
+# line_chart = pygal.HorizontalBar()
+# line_chart.title = '1st style billboard chart 2017'
+# for style in style17_data:
+#     line_chart.add(song[0], song[1])
+# line_chart.render_to_file('style17.svg')

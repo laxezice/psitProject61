@@ -2,9 +2,9 @@ Ed sheran,4@None@None@None@None@None@None@None@None@None@None@None
 Camila Cambello,1@None@None@None@None@None@None@None@None@None@None@None
 Drake,None@4@5@4@2@3@3@4@4@None@None@None
 chilaish Gambino,None@None@None@None@2@None@None@None@None@None@None@None
-Post Malone,None@None@None@None@None@1	None@None@None@None@None@None
-XXXTENTACION,None@None@None@None@None@1	None@None@None@None@None@None
+Post Malone,None@None@None@None@None@1@None@None@None@None@None@None
+XXXTENTACION,None@None@None@None@None@1@None@None@None@None@None@None
 Cardi B,None@None@None@None@None@None@1@None@None@None@None@None
-Maroon 5,None@None@None@None@None@None	None@None@1@4@2@None
+Maroon 5,None@None@None@None@None@None@None@None@1@4@2@None
 Ariana Grande,None@None@None@None@None@None@None@None@None@None@2@3
 Travis Scott,None@None@None@None@None@None@None@None@None@None@None@1

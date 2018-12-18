@@ -231,13 +231,13 @@ for artist in artist_sell:
 line_chart.render_to_file('../graph/artist_sell.svg')
 
 line_chart = pygal.HorizontalBar()
-line_chart.title = '1st artist best sell song 2018'
+line_chart.title = '1st youtube song 2018'
 for song in song_yt:
     line_chart.add(song[0], song[1])
 line_chart.render_to_file('../graph/song_yt.svg')
 
 line_chart = pygal.HorizontalBar()
-line_chart.title = '1st artist best sell song 2018'
+line_chart.title = '1st youtube artist 2018'
 for artist in artist_yt:
     line_chart.add(artist[0], artist[1])
 line_chart.render_to_file('../graph/artist_yt.svg')

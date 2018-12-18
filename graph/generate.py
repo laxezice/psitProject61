@@ -204,6 +204,7 @@ line_chart.title = '1st style billboard chart 2017'
 for style in style17_data:
     line_chart.add(style[0], style[1])
 line_chart.render_to_file('style17.svg')
+# line_chart.render_to_png('style17.png')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st steaming song 2018'
@@ -240,3 +241,4 @@ line_chart.title = '1st artist best sell song 2018'
 for artist in artist_yt:
     line_chart.add(artist[0], artist[1])
 line_chart.render_to_file('artist_yt.svg')
+

@@ -1,0 +1,7 @@
+Sunday,11.46
+Monday,11.11
+Tuesday,18.75
+Wednesday,21.53
+Thursday,20.83
+Friday,11.11
+Saturday,5.21

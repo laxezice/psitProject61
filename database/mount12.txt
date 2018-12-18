@@ -8,3 +8,4 @@ Cardi B,None@None@None@None@None@None@1@None@None@None@None@None
 Maroon 5,None@None@None@None@None@None@None@None@1@4@2@None
 Ariana Grande,None@None@None@None@None@None@None@None@None@None@2@3
 Travis Scott,None@None@None@None@None@None@None@None@None@None@None@1
+None,None@1@None@1@1@None@1@1@None@1@1@1

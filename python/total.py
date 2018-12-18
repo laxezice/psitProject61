@@ -20,6 +20,6 @@ line_chart.title = 'Total report'
 line_chart.x_labels = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 for artist in total:
     if artist == 'None':
-        line_chart.add(artist, total[artist]. , stroke_style={'color' = '#000000'})
+        line_chart.add(artist, total[artist] , stroke_style={'color' : '#000000'})
     print(artist, total[artist])
 line_chart.render_to_file('../graph/total.svg')

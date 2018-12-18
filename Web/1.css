@@ -17,9 +17,12 @@
 	margin-right: 400px;
 }
 
-body {
+html, body {
     margin: 0;
     padding: 0;
+    width: 100%;
+    height: 0;
+    margin: 0px;
 }
 header {
 	height: 100vh;
@@ -84,3 +87,15 @@ input.btn  {
 .mg-r-10 {
 	margin-right: 50px;
 }
+
+.div{
+	width:200px;
+	height:100px;
+	background-image: url("v2.gif");
+	transition:width 2s;
+	-moz-transition:width 2s; /* Firefox 4 */
+	-webkit-transition:width 2s; /* Safari and Chrome */
+	-o-transition:width 2s; /* Opera */}
+
+.div:hover
+{width:2000px;}

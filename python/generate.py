@@ -173,72 +173,72 @@ line_chart = pygal.HorizontalBar()
 line_chart.title = '1st song billboard chart 2017'
 for song in song17_data:
     line_chart.add(song[0], song[1])
-line_chart.render_to_file('song17.svg')
+line_chart.render_to_file('../graph/song17.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st song billboard chart 2018'
 for song in song18_data:
     line_chart.add(song[0], song[1])
-line_chart.render_to_file('song18.svg')
+line_chart.render_to_file('../graph/song18.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st artist billboard chart 2017'
 for artist in artist17_data:
     line_chart.add(artist[0], artist[1])
-line_chart.render_to_file('artist17.svg')
+line_chart.render_to_file('../graph/artist17.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st artist billboard chart 2018'
 for artist in artist18_data:
     line_chart.add(artist[0], artist[1])
-line_chart.render_to_file('artist18.svg')
+line_chart.render_to_file('../graph/artist18.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st style billboard chart 2018'
 for style in style18_data:
     line_chart.add(style[0], style[1])
-line_chart.render_to_file('style18.svg')
+line_chart.render_to_file('../graph/style18.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st style billboard chart 2017'
 for style in style17_data:
     line_chart.add(style[0], style[1])
-line_chart.render_to_file('style17.svg')
+line_chart.render_to_file('../graph/style17.svg')
 # line_chart.render_to_png('style17.png')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st steaming song 2018'
 for song in song_stream:
     line_chart.add(song[0], song[1])
-line_chart.render_to_file('song_stream.svg')
+line_chart.render_to_file('../graph/song_stream.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st steaming artist 2018'
 for artist in artist_stream:
     line_chart.add(artist[0], artist[1])
-line_chart.render_to_file('artist_stream.svg')
+line_chart.render_to_file('../graph/artist_stream.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st steaming style 2018'
 for style in style_stream:
     line_chart.add(style[0], style[1])
-line_chart.render_to_file('style_stream.svg')
+line_chart.render_to_file('../graph/style_stream.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st artist best sell song 2018'
 for artist in artist_sell:
     line_chart.add(artist[0], artist[1])
-line_chart.render_to_file('artist_sell.svg')
+line_chart.render_to_file('../graph/artist_sell.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st artist best sell song 2018'
 for song in song_yt:
     line_chart.add(song[0], song[1])
-line_chart.render_to_file('song_yt.svg')
+line_chart.render_to_file('../graph/song_yt.svg')
 
 line_chart = pygal.HorizontalBar()
 line_chart.title = '1st artist best sell song 2018'
 for artist in artist_yt:
     line_chart.add(artist[0], artist[1])
-line_chart.render_to_file('artist_yt.svg')
-
+line_chart.render_to_file('../graph/artist_yt.svg')
+#

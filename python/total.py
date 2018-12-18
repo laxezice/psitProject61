@@ -21,5 +21,7 @@ line_chart.x_labels = ["January", "February", "March", "April", "May", "June", "
 for artist in total:
     if artist == 'None':
         line_chart.add(artist, total[artist] , stroke_style={'color' : '#000000'})
+    else:
+        line_chart.add(artist, total[artist])
     print(artist, total[artist])
 line_chart.render_to_file('../graph/total.svg')

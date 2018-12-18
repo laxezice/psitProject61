@@ -82,14 +82,6 @@ li a:hover {
     background-color: #111;
 }
 
-.div{
-  width:200px;
-  height:100px;
-  background-image: url("v2.gif");
-  transition:width 2s;
-  -moz-transition:width 2s; /* Firefox 4 */
-  -webkit-transition:width 2s; /* Safari and Chrome */
-  -o-transition:width 2s; /* Opera */}
 
 .div:hover
 {width:1500px;}
